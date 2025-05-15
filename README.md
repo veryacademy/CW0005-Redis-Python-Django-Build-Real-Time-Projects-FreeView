@@ -4,9 +4,6 @@ Want to level up your Django GraphQL skills? Our **Django GraphQL Strawberry Que
 🔥 **Join the Udemy Course today and start learning!**  
 📌 [Click here to enroll now!](https://www.udemy.com/course/learn-redis-python-django-build-real-time-projects/?referralCode=84CCF7187D0D1ED73CAC)
 
----
-# Learn Redis with Python & Django: Build Real-Time Projects Course
-
 You can also explore the free edition of this course on YouTube to get started.
 
 **View the free-view edition of this course at YouTube**  
